@@ -117,4 +117,3 @@
 /content/yolotinyv4_wound/obj/stage3_3.png
 /content/yolotinyv4_wound/obj/stage4_7.png
 /content/yolotinyv4_wound/obj/stage4_9.png
-
