@@ -8,3 +8,10 @@
 /content/yolotinyv4_wound/obj/IMG_7798.JPG
 /content/yolotinyv4_wound/obj/IMG_7814.JPG
 /content/yolotinyv4_wound/obj/P051008_0804.JPG
+/content/yolotinyv4_wound/obj/IMG_0846.JPG
+/content/yolotinyv4_wound/obj/IMG_0847.JPG
+/content/yolotinyv4_wound/obj/20210311_024848268_iOS.jpg
+/content/yolotinyv4_wound/obj/20210311_025038229_iOS.jpg
+/content/yolotinyv4_wound/obj/stage2_9.jpg
+/content/yolotinyv4_wound/obj/stage4_2.jpg
+/content/yolotinyv4_wound/obj/stage3_12.jpg

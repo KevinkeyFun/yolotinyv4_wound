@@ -24,3 +24,11 @@
 /content/yolotinyv4_wound/obj/stage2_26.jpg
 /content/yolotinyv4_wound/obj/stage3_21.jpg
 /content/yolotinyv4_wound/obj/stage4_28.jpg
+/content/yolotinyv4_wound/obj/IMG_0841.JPG
+/content/yolotinyv4_wound/obj/IMG_0842.JPG
+/content/yolotinyv4_wound/obj/IMG_0843.JPG
+/content/yolotinyv4_wound/obj/IMG_0856.JPG
+/content/yolotinyv4_wound/obj/IMG_0858.JPG
+/content/yolotinyv4_wound/obj/IMG_0859.JPG
+/content/yolotinyv4_wound/obj/20210311_024953561_iOS.jpg
+/content/yolotinyv4_wound/obj/20210311_024809160_iOS.jpg
